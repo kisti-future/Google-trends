@@ -1,3 +1,4 @@
+## Google Trend Analysis Model for Technology Future Forecasting 
 # Google-trends
 The data shared here is the raw data of the following paper.
 Ten years of research change using Google Trends: From the perspective of big data utilizations and applications(Technological forecasting and social change 130, 69-87)
